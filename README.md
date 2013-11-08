@@ -1,9 +1,13 @@
-[OpenJS](http://clicki.cn) - New JS Module Base Library
+[PubJS](http://pubjs.github.io) - New JS Module Base Library
 =======================================================
 
 Author
 ------
-Katana & Edwin
+```
+iwinmin@github
+iwillwen@github
+Edwin
+```
 
 Website
 -------
